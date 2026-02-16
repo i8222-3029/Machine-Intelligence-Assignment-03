@@ -1,0 +1,4 @@
+After explore (implication)
+  Safe |  Safe |Unknown
+  Safe |Unknown|Unknown
+Unknown|Unknown|Unknown
